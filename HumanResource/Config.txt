@@ -1,0 +1,3 @@
+jdbc:h2:C:\\Users\\USER\\eclipse-workspace\\HumanResource\\src;AUTO_SERVER=TRUE
+sa
+124
